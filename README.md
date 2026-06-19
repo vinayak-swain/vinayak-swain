@@ -19,7 +19,6 @@ I'm a **Java & Spring Boot developer** and 2nd-year B.Tech CSE student at **Acro
 I'm drawn to engineering that happens *beneath the surface* — distributed systems, clean architecture, and backend logic that holds up when things get complex. I don't build to check a box. I build to understand how things actually work.
 
 - 🎓 B.Tech CSE @ Acropolis(2023–2027)
-- 💼 Ex-Intern @ **Softwaves Technologies** — Full Stack Developer
 - 🤖 Ex-Chair @ **AI Nexus Club** — organized *Code Compass* campus event
 - 📄 Research paper contributor @ **ICI3**
 - 📍 Based in **Indore, India**
