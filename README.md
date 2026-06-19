@@ -10,7 +10,7 @@ Tools that solve real problems — including a distributed version control syste
 Java Spring Boot C/C++ SQL MongoDB Flutter Git Servlets/JSP REST APIs
 📌 Currently
 
-🎓 B.Tech CSE (2023–2027) — CGPA 7.5
+🎓 B.Tech CSE (2023–2027) 
 🏗️ Building projects that bridge systems programming with real-world usability
 📖 Deepening expertise in DSA, OOP design, and cloud/distributed systems
 
